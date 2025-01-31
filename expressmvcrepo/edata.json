@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "first_name": "Apoorva",
+    "last_name": "Gugri",
+    "email": "apoorva@gmail.com",
+    "ip": "192.168.1.1"
+  },
+  {
+    "id": 2,
+    "first_name": "Aish",
+    "last_name": "Gugri",
+    "email": "aish@gmail.com",
+    "ip": "100.168.1.1"
+  },
+  {
+    "id": 3,
+    "first_name": "Amulya",
+    "last_name": "Gugri",
+    "email": "amulirva@gmail.com",
+    "ip": "192.160.0.0"
+  },
+  {
+    "id": 4
+  },
+  {
+    "id": 5,
+    "first_name": "Archana",
+    "email": "ab@gmail.com"
+  },
+  {
+    "id": 6
+  },
+  {
+    "id": 7,
+    "last_name": "Gugri",
+    "email": "apoorva@gmail.com",
+    "ip": "192.168.1.1"
+  }
+]
